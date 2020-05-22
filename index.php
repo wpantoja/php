@@ -1,6 +1,6 @@
 <?php
 
-echo "Meu primeiro código em PHP! Hello World!!";
+echo "Meu primeiro código em PHP! Olá Mundo!!";
 
 ?>
 
